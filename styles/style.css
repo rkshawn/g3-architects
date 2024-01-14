@@ -155,6 +155,19 @@ main {
   width: 166.757px;
   height: 50px;
 }
+
+/* footer related styles */
+footer {
+  margin-top: 70px;
+  border-radius: 8px;
+  background: #fff4e7;
+  height: 100px;
+}
+.footer-text{
+  text-align: center;
+  padding-top: 40px;
+}
+
 /* responsive media query */
 /* for small/mobile devices */
 @media screen and (max-width: 576px) {
